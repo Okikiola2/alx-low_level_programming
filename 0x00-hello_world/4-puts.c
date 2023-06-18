@@ -1,9 +1,6 @@
 #include<stdio.h>
 /**
  * main - entry point
- * program that prints using puts
- *
- * not allow to use printf to print
  *
  * Return : 0 (Success)
  */
