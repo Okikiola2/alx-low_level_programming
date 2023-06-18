@@ -6,8 +6,6 @@
  * not allow to use printf to print
  *
  * Return : 0 (Success)
- *
- * return - end point)
  */
 int main(void)
 {
