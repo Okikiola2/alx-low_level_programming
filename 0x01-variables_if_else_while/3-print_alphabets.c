@@ -1,3 +1,4 @@
+#include <stdio.h>
 
 /**
  * main - outpu the alphabet in upper and lower case.
